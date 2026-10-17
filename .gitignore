@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Editör ayarları (kişisel)
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Gizli bilgiler
+.env
+*.token
